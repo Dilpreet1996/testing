@@ -254,7 +254,7 @@ public class MainActivity extends AppCompatActivity {
         {
             address1="http://"+address;
 
-            Toast.makeText(this, "Make sure Wheather Ip Addrres is valid or not...", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Make sure Wheather Ip Addrres hello  is valid or not...", Toast.LENGTH_SHORT).show();
         }
 
 
